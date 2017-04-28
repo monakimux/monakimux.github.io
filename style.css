@@ -1,18 +1,19 @@
 /* write your CSS here */
 header{
       text-align:center; 
-    padding:5px;
+    padding:25px;
 }
 #header-line{
      font-size:14px;
 }
 #name {
     font-family:Helvetica;
-    color: navy;
-    font-size:48px;
+ color:dimgrey; 
+    font-size:72px;
 }
 #about-me{
-    font-size:16px;
+    font-size:24px;
+       color:dimgrey; 
 }
 h1 {
     font-family:Helvetica;
