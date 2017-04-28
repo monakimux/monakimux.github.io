@@ -1,27 +1,21 @@
 /* write your CSS here */
 header{
-    background-color:lightsteelblue;
       text-align:center; 
     padding:5px;
 }
 #header-line{
-    font-style:italic;
-    text-transform: lowercase;
-     font-size:12px;
+     font-size:14px;
 }
 #name {
-    font-family:Georgia;
+    font-family:Helvetica;
     color: black;
-    letter-spacing: 0.56em;
     font-size:40px;
 }
 #about-me{
-     font-style:italic;
-    text-transform: lowercase;
     font-size:12px;
 }
 h1 {
-    font-family:Georgia;
+    font-family:Helvetica;
     color: black;
 }
 #email {
@@ -40,11 +34,10 @@ h3{
     text-transform: none;
 }
 body{
-     font-family:Arial;
+     font-family:Helvetica;
     color:dimgrey; 
 }
 footer{
     padding:0.5px;
       text-align:center; 
-        background-color:lightsteelblue;
 }
